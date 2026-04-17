@@ -30,7 +30,7 @@ jobs:
       - name: Build site
         run: |
           if [ -f _config_demo.yml ]; then
-            bundle exec jekyll build --config _config.yml,_config_demo.yml
+            bundle exec jekyll build
           else
             bundle exec jekyll build
           fi
