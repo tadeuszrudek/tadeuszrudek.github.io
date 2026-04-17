@@ -53,6 +53,16 @@ permalink: /about/
 </div>
 {% endif %}
 
+<div class="section-card">
+<h3>Research Networks</h3>
+<ul>
+<li><a href="https://www.isa-sociology.org/en/research-networks/research-committees/rc24-environment-and-society/" target="_blank">International Sociological Association, RC24 Environment and Society</a></li>
+<li><a href="https://www.europeansociology.org/research-networks/rn12-environment-society" target="_blank">European Sociological Association, RN12 Environment and Society</a> — Member of the Board</li>
+<li><a href="https://4sonline.org" target="_blank">Society for Social Studies of Science (4S)</a></li>
+<li><a href="https://www.tsatw.org.tw" target="_blank">Taiwanese Sociological Association</a></li>
+</ul>
+</div>
+
 {% if site.data.people %}
 <div class="section-card">
 <h3>Students and Mentoring</h3>

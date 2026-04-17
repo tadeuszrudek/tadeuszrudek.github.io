@@ -9,31 +9,26 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Future</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Sociotechnical Transitions</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Energy Transition</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Post-Decarbonised World</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Technology & Society</a>
 </div>
-
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-
 <div class="callout callout-success" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
+<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Let's Capture the Invisible. Let's capture the Future.</div>
+<p>Fellow at Harvard University (STS Programme), King's College London, and ETH Zurich. PhD defended with distinction, Jagiellonian University, 2024.</p>
 </div>
 
 <div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Research" loading="lazy">
+<div class="banner-caption">JU Capturing Invisible LAB, Institute of Sociology, Jagiellonian University</div>
 </div>
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+My name is Tadeusz Rudek. I defended my PhD in sociological sciences with distinction at the Jagiellonian University in 2024. I have held fellowships at Harvard University, King's College London, and ETH Zurich, and I am also a recipient of the Polish Minister of Science Scholarship for Outstanding Young Scientists. In my academic work, I study socio-technical change. My research addresses socially relevant questions such as: what does the acceptance of Artificial Intelligence (AI) depend on? Why is the Green Deal controversial? Or why are vaccines contested — and what advice can a sociologist offer to a paediatrician navigating these debates?
+
+My model focuses on explaining how imaginaries about the future shape the production of knowledge, its legitimacy, its impact on the funding of certain sectors of science, and the perception of risks and uncertainties in technological transformations. In developing my model, I did a fellowship at King's College London, where I extended it to include an aspect of performativity, i.e. the impact of imaginaries on the shaping of policies and their economic and social aspects. I also spent a semester at Harvard University in the STS (Science and Technology Studies) programme, which helped me to develop, central to the model, the Capturing Invisible research toolkit, allowing me to study the impact of social imaginaries on technological development.
+
+My research work focuses on today's most relevant societal issues: climate change, the energy transition and the area of public health. To date, I have successfully applied my model to energy transition studies in Poland, China and Taiwan, so I believe my research will contribute to a better understanding of the social determinants of energy transition and more effective implementation of policies related to technological innovation. An important application of the model has been to identify societal uncertainties around childhood vaccination in a number of European countries and subsequently create training for paediatricians to facilitate informed dialogue with parents. The Capturing Invisible model can be applied to research and development processes, a study carried out for InPost confirmed.

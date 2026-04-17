@@ -4,11 +4,6 @@ layout: gridlay
 sitemap: false
 permalink: /team/
 ---
-
-## Team
-
-**We are looking for new team members!**
-
 ## PI
 
 <div class="section-card">
@@ -35,47 +30,17 @@ permalink: /team/
 </div>
 </div>
 
-{% if site.data.team_members.size > 0 %}
-## Current Students and Postdocs
+## Lab
 
-<div class="team-grid">
-{% for member in site.data.team_members %}
-<div class="team-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="team-photo" alt="{{ member.name }}" loading="lazy">
-<h4 class="team-name">{{ member.name }}</h4>
-<p class="team-info">{{ member.info }}</p>
-<div class="team-links">
-{% if member.email %}<a href="mailto:{{ member.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
-{% if member.website %}<a href="{{ member.website }}" class="icon-link" title="Website"><i class="fa-solid fa-house"></i></a>{% endif %}
-{% if member.scholar %}<a href="{{ member.scholar }}" class="icon-link" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
-{% if member.github %}<a href="{{ member.github }}" class="icon-link" title="GitHub"><i class="fa-brands fa-github"></i></a>{% endif %}
+<div class="research-grid">
+<div class="research-card" onclick="window.open('https://imagine-future.project.uj.edu.pl','_blank')" style="cursor:pointer;">
+<div class="research-body">
+<h4 class="research-title">JU Capturing Invisible LAB</h4>
+<p class="research-desc">Research initiative at the Institute of Sociology, Jagiellonian University, developing the Capturing Invisible toolkit to study how sociotechnical imaginaries shape technological development and public policy.</p>
 </div>
 </div>
-{% endfor %}
 </div>
-{% endif %}
-
-{% if site.data.alumni.size > 0 %}
-## Alumni
-
-<div class="section-card">
-<table class="alumni-table">
-<thead>
-<tr><th>Name</th><th>Duration</th><th>Current Position</th></tr>
-</thead>
-<tbody>
-{% for member in site.data.alumni %}
-<tr>
-<td>{{ member.name }}</td>
-<td>{{ member.duration }}</td>
-<td>{{ member.info }}</td>
-</tr>
-{% endfor %}
-</tbody>
-</table>
-</div>
-{% endif %}
 
 ## Administrative Support
 
-<a href="mailto:exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
+<a href="mailto:ilona.zdziech@uj.edu.pl">Ilona Zdziech</a> is helping us (and other groups) with project administration.

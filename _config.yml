@@ -1,22 +1,21 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
+name: "Tadeusz J. Rudek"
+title: "PhD, Assistant Professor"
+institution: "Jagiellonian University"
+email: tadeusz.rudek@uj.edu.pl
 photo: headshot.jpg  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
+  google_scholar: "https://scholar.google.com/citations?user=793_e2oAAAAJ&hl=pl"
   github: "https://github.com/"
   researchgate: "https://www.researchgate.net/"
-  orcid: ""
-  twitter: ""
-  linkedin: ""
+  orcid: "https://orcid.org/0000-0002-8498-614X"
+  linkedin: "https://www.linkedin.com/in/tadeuszrudek/"
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
@@ -24,7 +23,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Academic webpage of Tadeusz J. Rudek, sociologist at Jagiellonian University"
 baseurl: ""
 url: ""
 
@@ -41,7 +40,6 @@ nav_pages:
   - name: talks
   - name: research
   - name: software
-  - name: team
   - name: teaching
   - name: blogs
 
@@ -76,8 +74,8 @@ kramdown:
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Rudek
+  first_name: [Tadeusz, J.]
   style: citesty
   locale: en
   source: /assets/

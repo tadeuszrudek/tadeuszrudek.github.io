@@ -1,5 +1,7 @@
-# Grants and funding, shown on the About page.
-# Each entry needs: name
-- name: NSF Grant for Quantum Electrodynamics Research
-- name: ONR Contract for Parallel Computing Research
-- name: DOE Grant for Parton Model Development
+- name: "PANTHEON [Horizon Europe] — Pathways to(wards) carbon neutrality for climate, environment, health and socio-economic co-benefits. Grant: 1 958 285 EUR (2024–2028). Role: Principal Investigator (WP5 & WP6 leader)"
+- name: "NEEDS Repowered [Driving Urban Transitions] — Grant: 1 763 454,60 EUR (2025–). Role: Researcher"
+- name: "PRELUDIUM [NCN] — Moc wyobrażeń. Performatywność Socjotechnicznych Imaginarów. Grant: 136 669 PLN (2023–2025). Role: Principal Investigator"
+- name: "Capturing Invisible LAB [CITRU UJ] — Grant: 80 000 PLN (2022–2025). Role: Principal Investigator"
+- name: "FAMOS [Sustainable Blue Economy Partnership] — Grant: 1 118 575 EUR (2024–2027). Role: Researcher"
+- name: "gEneSys [Horizon Europe] — Grant: 2 656 488 EUR (2023–2026). Role: Researcher"
+- name: "VAX-TRUST [Horizon 2020] — Addressing Vaccine Hesitancy in Europe. Grant: 2 971 675 EUR (2021–2024). Role: Researcher"

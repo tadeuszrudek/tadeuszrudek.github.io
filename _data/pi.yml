@@ -1,11 +1,23 @@
-# Optional: detailed education and bio for the About page.
-# Basic info (name, photo, links) now lives in _config.yml.
-# Delete this file if you only need the basics.
-
-# EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+    - "Ph.D. (with distinction) Sociological Sciences, Jagiellonian University, 2024"
+    - "Fellowship, Harvard University, STS Programme"
+    - "Fellowship, King's College London"
+    - "Fellowship, ETH Zurich"
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+    - "Ph.D. Sociology, Jagiellonian University (2024)"
+    - "Fellow: Harvard, King's College London, ETH Zurich"
+  bio: >
+    My name is Tadeusz Rudek. I defended my PhD in sociological sciences with distinction 
+    at the Jagiellonian University in 2024. I have held fellowships at Harvard University, 
+    King's College London, and ETH Zurich, and I am also a recipient of the Polish Minister 
+    of Science Scholarship for Outstanding Young Scientists.
+
+    I study socio-technical change, addressing questions such as: what does the acceptance 
+    of Artificial Intelligence depend on? Why is the Green Deal controversial? Or why are 
+    vaccines contested? My model focuses on how imaginaries about the future shape the 
+    production of knowledge, its legitimacy, and the perception of risks in technological 
+    transformations — the Capturing Invisible research toolkit.
+
+    My research focuses on climate change, the energy transition, and public health. 
+    I have applied my model to energy transition studies in Poland, China, and Taiwan, 
+    and to societal uncertainties around childhood vaccination in European countries.
