@@ -8,12 +8,14 @@ permalink: /research/
 
 <div class="research-grid">
 
+<a href="https://pantheon-decarbonisation.com" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">PANTHEON (Horizon Europe & MOST in PRC)</h4>
-<p class="research-desc">Horizon Europe project exploring sociotechnical imaginaries and energy transitions in a comparative perspective between Europe and China.</p>
+<p class="research-desc">Horizon Europe project modelling and exploring decarbonisation pathways in a comparative perspective between Europe and China. Our team is responsible for filling the IAM with stakeholders insights and ideas</p>
 </div>
 </div>
+</a>
 
 <div class="research-card">
 <div class="research-body">
@@ -22,26 +24,32 @@ permalink: /research/
 </div>
 </div>
 
+<a href="https://www.famos-project.eu" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">FAMOS (Sustainable Blue Economy)</h4>
-<p class="research-desc">European research project on the social dimensions of the sustainable blue economy, examining stakeholder engagement and participatory methods in maritime contexts.</p>
+<p class="research-desc">European research project on co-design of floating island archipelago and blue economy, examining stakeholder engagement and participatory methods in maritime contexts.</p>
 </div>
 </div>
+</a>
 
+<a href="https://www.tandfonline.com/doi/full/10.1080/09581596.2025.2482836" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">Vaccines and Civic Epistemologies</h4>
 <p class="research-desc">Research on the response of Polish authorities to the Covid-19 pandemic, examining how civic epistemologies and expert knowledge shaped vaccine policy and public trust.</p>
 </div>
 </div>
+</a>
 
+<a href="https://vax-trust.eu" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">VAX-TRUST (Horizon 2020)</h4>
 <p class="research-desc">Seven-country European study addressing vaccine hesitancy. The project developed interventions for healthcare professionals to facilitate informed dialogue with vaccine-hesitant parents.</p>
 </div>
 </div>
+</a>
 
 <div class="research-card">
 <div class="research-body">
@@ -53,7 +61,7 @@ permalink: /research/
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">Plug & Chill</h4>
-<p class="research-desc">An EV charging station initiative originating at the Institute of Sociology, Jagiellonian University (Grodzka 52), deployed across Kraków and Murzasichle. The project runs a 6-month social experiment with 10 partner locations, examining the social dimensions of EV adoption and energy communities.</p>
+<p class="research-desc">A startup and  initiative originating at the Institute of Sociology, Jagiellonian University (Grodzka 52), deployed across Kraków and Małopolska region. The project runs a 6-month social experiment with 10 partner locations, examining the social dimensions of EV adoption and allowing citizens to sell energy.</p>
 </div>
 </div>
 
