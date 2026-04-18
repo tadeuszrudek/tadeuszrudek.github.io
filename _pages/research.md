@@ -6,7 +6,7 @@ permalink: /research/
 ---
 ## Research
 
-<div class="research-grid">
+<div class="research-grid" markdown="0">
 
 <a href="https://pantheon-decarbonisation.com" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
