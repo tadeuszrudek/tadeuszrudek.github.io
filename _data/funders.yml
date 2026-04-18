@@ -2,12 +2,13 @@
 # Each entry needs: image (filename in images/), url
 # Recommended logo size: max-height 80px
 
-# EXAMPLE -- replace or delete
-- image: NSF.png
-  url: https://www.nsf.gov/
-- image: doe_logo.png
-  url: https://www.energy.gov/
-- image: onr_logo.png
-  url: https://www.onr.navy.mil/
-- image: NIH-logo.png
-  url: https://www.nih.gov/
+- image: team/aea86fce95146ce706844aeec4f57daa.jpg
+  url: "#"
+- image: team/KNOWLEDGE_logo (512 x 512 px).png
+  url: "#"
+- image: team/logo-poziom-en.png
+  url: "#"
+- image: team/NCBR_logo_ENG.png
+  url: "#"
+- image: team/profilowe fb.png
+  url: "#"
