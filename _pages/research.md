@@ -17,12 +17,14 @@ permalink: /research/
 </div>
 </a>
 
+<a href="https://doi.org/10.1016/j.erss.2025.104091" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">Reflexive Public Reason</h4>
-<p class="research-desc">Comparative analysis of energy transition in China and Taiwan. The project applies the Capturing Invisible toolkit to study how sociotechnical imaginaries shape energy policy and public knowledge in East Asia.</p>
+<p class="research-desc">Comparative analysis of energy transition in China and Taiwan. The project applies the Capturing Invisible toolkit to study how sociotechnical imaginaries shape energy policy and public knowledge.</p>
 </div>
 </div>
+</a>
 
 <a href="https://www.famos-project.eu" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
@@ -51,17 +53,19 @@ permalink: /research/
 </div>
 </a>
 
+<a href="https://needs-repowered.at" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">NEEDS Repowered (DUT Partnership)</h4>
-<p class="research-desc">DUT Partnership project focused on energy needs and repowering strategies, combining participatory research with sociotechnical analysis of energy communities.</p>
+<p class="research-desc">DUT Partnership project focused on energy needs and repowering strategies, combining participatory research with sociotechnical analysis of energy initiatives and Positive Energy Districts.</p>
 </div>
 </div>
+</a>
 
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">Plug & Chill</h4>
-<p class="research-desc">A startup and  initiative originating at the Institute of Sociology, Jagiellonian University (Grodzka 52), deployed across Kraków and Małopolska region. The project runs a 6-month social experiment with 10 partner locations, examining the social dimensions of EV adoption and allowing citizens to sell energy.</p>
+<p class="research-desc">A startup and  initiative that supports development of citizen EV charges. Project is deployed across Kraków and Małopolska region. The project runs a 6-month experiment with 10 partner locations, examining the social dimensions of EV, PV adoption and allowing citizens to sell energy.</p>
 </div>
 </div>
 
