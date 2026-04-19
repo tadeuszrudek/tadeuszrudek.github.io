@@ -17,7 +17,7 @@ permalink: /
 </div>
 <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Let's Capture the Invisible. Let's capture the Future.</div>
-<p>Fellow at Harvard University (STS Programme), King's College London, and ETH Zurich. PhD defended with distinction, Jagiellonian University, 2024.</p>
+<p>Who decides about trajectoris of the future? Who  is allowed to imagine new pathways? How to make informed decisions about future?</p>
 </div>
 
 <div class="banner-frame" markdown="0">
