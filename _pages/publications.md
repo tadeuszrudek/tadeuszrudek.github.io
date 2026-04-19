@@ -7,6 +7,8 @@ permalink: /publications/
 
 ## Publications
 
+For a complete list of my publications, visit my [ResearchGate profile]({{ site.links.researchgate }}).
+
 <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 
 <div class="section-card" id="pubList">
