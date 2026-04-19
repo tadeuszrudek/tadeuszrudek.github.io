@@ -24,6 +24,7 @@ links:
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic webpage of Tadeusz J. Rudek, sociologist at Jagiellonian University"
+keywords: "sociology, environmental sociology, Jagiellonian University, Tadeusz Rudek, academic research, Poland, sociology research"
 baseurl: ""
 url: "https://tadeuszrudek.github.io"
 
