@@ -16,3 +16,11 @@ permalink: /software/
 <p>The Observatory serves as a hub for collaborative research, connecting experts from different disciplines to investigate knowledge production and its implications. It provides access to multi-scale research outcomes and aggregated data, and creates a dynamic space for researchers, policymakers, and practitioners to share insights and co-develop solutions.</p>
 <p>GKO provides a tool for mapping and engaging stakeholders on a wide scale — based on big data stakeholder identification, mapping, and categorisation.</p>
 </div>
+
+<div class="section-card">
+<h4>Plug &amp; Chill</h4>
+<div class="pub-actions" style="margin-bottom: var(--space-3);">
+<a href="https://plug-chill.polon.ai" target="_blank" class="btn-pill btn-website">Plug &amp; Chill Platform</a>
+</div>
+<p>An innovative platform enabling local sharing of solar energy between prosumers and electric vehicle drivers.</p>
+</div>
