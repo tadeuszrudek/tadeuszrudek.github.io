@@ -62,11 +62,13 @@ permalink: /research/
 </div>
 </a>
 
+<a href="https://plug-chill.polon.ai" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
 <h4 class="research-title">Plug & Chill</h4>
 <p class="research-desc">A startup and  initiative that supports development of citizen EV charges. Project is deployed across Kraków and Małopolska region. The project runs a 6-month experiment with 10 partner locations, examining the social dimensions of EV, PV adoption and allowing citizens to sell energy.</p>
 </div>
 </div>
+</a>
 
 </div>
