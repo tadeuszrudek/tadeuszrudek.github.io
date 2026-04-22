@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jagiellonian University//Capturing Invisible Seminars//EN
+BEGIN:VEVENT
+UID:20260423-spacex-simulation@jagiellonian.edu.pl
+DTSTART:20260423T160000Z
+DTEND:20260423T173000Z
+SUMMARY:Life in the SpaceX Simulation: Exploring the Contemporary Company Town at Starbase
+DESCRIPTION:Speaker: Anna Szołucha (Jagiellonian University)\n\nWhat happens when a single corporate vision designs every aspect of a community's reality? This talk explores Starbase\, Texas — the facility where SpaceX builds and launches the Starship rocket — through the lens of historic American company towns. Drawing on the experiences of its inhabitants\, Anna Szołucha investigates how Starbase blurs the boundary between a functional workplace and a total human environment\, using the "simulation hypothesis" as a metaphor for a new technological extreme.\n\nAbout the speaker\nAnna Szołucha is Associate Professor and PI of the ARIES project (Anthropological Research into the Imaginaries and Exploration of Space) at the Institute of Ethnology and Cultural Anthropology\, Jagiellonian University in Kraków. Her work spans the social impacts of energy extraction\, unconventional resources\, democratic transformation\, and the anthropology of space exploration.\n\nJoin online: MS Teams link | Meeting ID: 345 499 791 627 31 | Passcode: SY2Cx2aP
+LOCATION:Online (MS Teams)
+END:VEVENT
+END:VCALENDAR
