@@ -1,11 +1,11 @@
 ---
-title: "Software"
+title: "Tools"
 layout: gridlay
 sitemap: false
-permalink: /software/
+permalink: /tools/
 ---
 
-## Software
+## Tools
 
 <div class="section-card">
 <h4>Global Knowledge Observatory (GKO)</h4>
