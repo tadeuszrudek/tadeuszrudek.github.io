@@ -20,11 +20,6 @@ permalink: /
 <p>Who decides about trajectoris of the future? Who  is allowed to imagine new pathways? How to make informed decisions about future?</p>
 </div>
 
-<div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Research" loading="lazy">
-<div class="banner-caption">JU Capturing Invisible LAB, Institute of Sociology, Jagiellonian University</div>
-</div>
-
 ### About me
 
 My name is Tadeusz Rudek. I defended my PhD in sociological sciences with distinction at the Jagiellonian University in 2024. I have held fellowships at Harvard University, King's College London, and ETH Zurich, and I am also a recipient of the Polish Minister of Science Scholarship for Outstanding Young Scientists. In my academic work, I study socio-technical change. My research addresses socially relevant questions such as: what does the acceptance of Artificial Intelligence (AI) depend on? Why is the Green Deal controversial? Or why are vaccines contested — and what advice can a sociologist offer to a paediatrician navigating these debates?
