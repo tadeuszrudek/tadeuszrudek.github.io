@@ -1,7 +1,7 @@
 ---
 title: "Life in the SpaceX Simulation: Exploring the Contemporary Company Town at Starbase"
 layout: post
-date: 2026-04-23
+date: 2026-04-22
 ---
 
 **Speaker:** Anna Szołucha (Jagiellonian University)  
