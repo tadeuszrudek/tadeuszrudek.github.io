@@ -30,6 +30,7 @@ permalink: /talks/
 <ul>
 <li>ESA Conference, Warsaw (2026). Panel organised and chaired: <em>"Enacted and Contested Futures of the Ocean: Sea Societies, Marine Technologies, and Maritime Spaces"</em> (JS_RN12_RN24).</li>
 <li>EASST 2026 Conference, Kraków (2026). Combined-format open panel organised and chaired: <em>"Democracy on the Edge: Science, Technology and Political Promise in Central and Eastern Europe"</em> (CB212).</li>
+<li>25th Science Democracy Network Conference, Potsdam (2026). Rudek, T.J. <em>"Sea Society(ies): Constructing the Future of the Baltic Sea — Global, EU, National or Local? Assemblages of Futures Across Scales."</em></li>
 </ul>
 
 <h4>2025</h4>
