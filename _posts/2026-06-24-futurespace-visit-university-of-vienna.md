@@ -4,6 +4,8 @@ title: "Visiting FutureSpace at the University of Vienna"
 date: 2026-06-24
 ---
 
+![FutureSpace team at the University of Vienna]({{ site.baseurl }}/images/1782217078053.jpeg)
+
 I am truly grateful to the **FUTURESPACE** team for such a warm welcome at the University of Vienna and for so many inspiring conversations.
 
 It was a real pleasure to spend time with the team of **FUTURESPACE**, an ERC Starting Grant project hosted at the Department of Science and Technology Studies at the University of Vienna, led by Dr. Nina Klimburg-Witjes. The project explores how European integration shapes Europe's future in outer space — and how space futures, infrastructures, and imaginaries feed back into political and institutional orders.
