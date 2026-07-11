@@ -17,7 +17,7 @@ permalink: /
 </div>
 <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Let's Capture the Invisible. Let's capture the Future.</div>
-<p>Who decides about trajectoris of the future? Who  is allowed to imagine new pathways? How to make informed decisions about future?</p>
+<p>Who decides about trajectories of the future? Who is allowed to imagine new pathways? How to make informed decisions about future?</p>
 </div>
 
 ### About Me
