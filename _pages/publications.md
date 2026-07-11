@@ -12,3 +12,7 @@ permalink: /publications/
 <h3>Refereed Journal Articles</h3>
 
 {% bibliography --query @article %}
+
+<h3>Book Chapters</h3>
+
+{% bibliography --query @incollection %}
