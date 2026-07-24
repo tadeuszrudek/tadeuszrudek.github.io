@@ -15,6 +15,19 @@
 {% if site.links.twitter and site.links.twitter != "" %}<a href="{{ site.links.twitter }}" class="icon-link" title="Twitter"><i class="fa-brands fa-x-twitter"></i></a>{% endif %}
 {% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin }}" class="icon-link" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
 </div>
+{% if site.scholar_stats %}
+<a href="{{ site.links.google_scholar }}" class="profile-stats" title="Google Scholar profile">
+<div class="profile-stat">
+<span class="profile-stat-value">{{ site.scholar_stats.citations }}</span>
+<span class="profile-stat-label">Citations</span>
+</div>
+<div class="profile-stat">
+<span class="profile-stat-value">{{ site.scholar_stats.h_index }}</span>
+<span class="profile-stat-label">h-index</span>
+</div>
+</a>
+<p class="profile-stats-updated">Google Scholar &middot; updated {{ site.scholar_stats.updated }}</p>
+{% endif %}
 {% if site.data.pi[0].educationshort %}
 <ul style="text-align: left; margin-top: var(--space-4); list-style: none; padding-left: 0;">
 {% for education in site.data.pi[0].educationshort %}

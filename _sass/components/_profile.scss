@@ -73,4 +73,47 @@
     border-top: 1px solid var(--border-color);
     flex-wrap: wrap;
   }
+
+  .profile-stats {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-6);
+    margin-top: var(--space-4);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--border-color);
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 0.75;
+    }
+  }
+
+  .profile-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .profile-stat-value {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: 1.375rem;
+    font-weight: 700;
+    color: var(--accent);
+    line-height: 1.2;
+  }
+
+  .profile-stat-label {
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+  }
+
+  .profile-stats-updated {
+    font-size: 0.6875rem;
+    color: var(--text-muted);
+    margin-top: var(--space-2);
+    margin-bottom: 0;
+  }
 }
