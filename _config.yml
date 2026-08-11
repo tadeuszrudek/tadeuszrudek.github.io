@@ -23,9 +23,9 @@ links:
 # blocks automated scraping, so update the two numbers by hand from your
 # profile (linked above) whenever you want the site to reflect new figures.
 scholar_stats:
-  citations: 637
-  h_index: 12
-  updated: "2026-07-24"
+  citations: 636
+  h_index: 11
+  updated: "2026-08-11"
 
 # ============================================================
 # STEP 3: Site Settings
