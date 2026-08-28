@@ -20,6 +20,8 @@ I am leaving with a head full of inspiration and ideas for future research, but 
 
 🌊 I also had the pleasure of chairing several sessions on imagining the future, energy transitions, marine technologies and nuclear energy.
 
+🌊 I am grateful for the trust of ESA RN12 "Environment and Society" for letting me serve on the RN board for another 2 years!
+
 ### Why this matters
 
 I am particularly pleased that the Baltic Sea is increasingly becoming not only an object of environmental or strategic research, but also an important field of sociological inquiry. It is where energy transitions, geopolitics, emerging technologies, local communities and competing visions of the future meet.
