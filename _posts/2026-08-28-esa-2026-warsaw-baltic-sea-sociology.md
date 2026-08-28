@@ -4,29 +4,17 @@ title: "The 17th ESA Conference in Warsaw: Baltic Sea Futures, New Collaboration
 date: 2026-08-28
 ---
 
-![Reunion with friends from across Europe, with the Palace of Culture and Science lit up at night]({{ site.baseurl }}/images/esa2026-warsaw-night-with-friends.jpeg)
-
 The 17th European Sociological Association Conference in **#Warsaw** has come to an end!
 
 I am leaving with a head full of inspiration and ideas for future research, but also with the joy of reconnecting with friends from across Europe.
 
 ### What our team presented
 
-![Title slide: Reading Sociotechnical Futures — the sociotechnical future of the Baltic Sea in Poland]({{ site.baseurl }}/images/esa2026-baltic-title-slide.jpg)
-
 🌊 We presented the first results of our modelling of the Baltic Sea's energy futures in the paper **"Imagining the Baltic: Constructing Poland's Energy Future at Sea."**
-
-![Presenting the affect analysis of offshore wind and nuclear energy discourse]({{ site.baseurl }}/images/esa2026-warsaw-presenting-affect-slide.jpg)
-
-![Slide showing the topic network: four communities, one imaginary]({{ site.baseurl }}/images/esa2026-baltic-topics-network.png)
-
-![Slide on "future" infrastructures and present decisions, with a semantic co-occurrence network]({{ site.baseurl }}/images/esa2026-baltic-future-infrastructures.png)
 
 🌊 **Emilia Srebrna** presented her excellent Master's thesis on how the energy transition is imagined, negotiated and experienced by the local community in [Choczewo]({{ site.baseurl }}/2026/07/11/emilia-srebrna-ma-defence-choczewo.html).
 
 🌊 Together with **Oliwia Mandrela**, we organised two sessions entitled **"Enacted and Contested Futures of the Ocean: Sea Societies, Marine Technologies, and Maritime Spaces."**
-
-![Our team at the conference venue in Warsaw]({{ site.baseurl }}/images/esa2026-warsaw-team-photo.jpeg)
 
 🌊 We established cooperation with **RethinkBlue** and the **Maritime Sociology** research network, opening up exciting possibilities for future research on the social dimensions of seas and oceans.
 
@@ -41,3 +29,11 @@ The conference may be over, but the conversations, collaborations and new resear
 More about the conference: [europeansociology.org/conference/2026](https://www.europeansociology.org/conference/2026)
 
 #ESA2026 #Sociology #EuropeanSociologicalAssociation #MaritimeSociology #SociologyOfTheFuture #BalticSea #EnergyTransition #SociotechnicalImaginaries #OceanFutures #MarineSociology #JagiellonianUniversity #Choczewo #AcademicResearch #ResearchCollaboration
+
+<div class="grid-auto">
+  <img class="img-fluid" src="{{ site.baseurl }}/images/esa2026-baltic-title-slide.jpg" alt="Title slide: Reading Sociotechnical Futures — the sociotechnical future of the Baltic Sea in Poland">
+  <img class="img-fluid" src="{{ site.baseurl }}/images/esa2026-warsaw-presenting-affect-slide.jpg" alt="Presenting the affect analysis of offshore wind and nuclear energy discourse">
+  <img class="img-fluid" src="{{ site.baseurl }}/images/esa2026-baltic-topics-network.png" alt="Slide showing the topic network: four communities, one imaginary">
+  <img class="img-fluid" src="{{ site.baseurl }}/images/esa2026-baltic-future-infrastructures.png" alt="Slide on future infrastructures and present decisions, with a semantic co-occurrence network">
+  <img class="img-fluid" src="{{ site.baseurl }}/images/esa2026-warsaw-team-photo.jpeg" alt="Our team at the conference venue in Warsaw">
+</div>
