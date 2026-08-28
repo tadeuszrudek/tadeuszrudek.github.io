@@ -13,3 +13,14 @@
   margin: 0 auto;
   padding: var(--space-8) var(--container-padding) 0;
 }
+
+// Post photo galleries (Bootstrap carousel): keep a steady height across
+// slides of mixed aspect ratio instead of the frame jumping on each slide.
+.carousel .carousel-item img {
+  height: 60vh;
+  max-height: 520px;
+  width: 100%;
+  object-fit: contain;
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+}

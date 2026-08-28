@@ -12,10 +12,37 @@ I am very grateful to the **Science Democracy Network** for listening to my idea
 
 Many thanks to everyone — and especially to **Sheila Jasanoff** — for creating and sustaining this space for thinking together. Many thanks also to **Oliwia Mandrela** for building together an STS–Sociology centre in Kraków.
 
-<div class="grid-auto">
-  <img class="img-fluid" src="{{ site.baseurl }}/images/zdj-1.jpg" alt="Presenting Sea Societies at the Science Democracy Network">
-  <img class="img-fluid" src="{{ site.baseurl }}/images/zdj-2.jpg" alt="Slide with Olga Tokarczuk quote">
-  <img class="img-fluid" src="{{ site.baseurl }}/images/zdj-3.jpg" alt="On global solutions and the rights of localities">
-  <img class="img-fluid" src="{{ site.baseurl }}/images/zdj-4.jpg" alt="Sea Baltic Sea — as a global, EU, national and local">
-  <img class="img-fluid" src="{{ site.baseurl }}/images/zdj-5.jpg" alt="Offshore wind and energy infrastructure assemblages">
+<div id="sdnGalleryCarousel" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ site.baseurl }}/images/zdj-1.jpg" class="d-block w-100" alt="Presenting Sea Societies at the Science Democracy Network">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/zdj-2.jpg" class="d-block w-100" alt="Slide with Olga Tokarczuk quote">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/zdj-3.jpg" class="d-block w-100" alt="On global solutions and the rights of localities">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/zdj-4.jpg" class="d-block w-100" alt="Sea Baltic Sea — as a global, EU, national and local">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.baseurl }}/images/zdj-5.jpg" class="d-block w-100" alt="Offshore wind and energy infrastructure assemblages">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div>
