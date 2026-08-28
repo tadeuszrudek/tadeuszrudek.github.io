@@ -28,8 +28,14 @@ permalink: /talks/
 
 <h4>2026</h4>
 <ul>
+<li>ESA Conference, Warsaw (2026). Rudek, T.J., Mandrela, O., Ludovico, N. (Groningen University) <em>"Imagining the Baltic: Constructing Poland's Energy Future at Sea."</em></li>
+<li>ESA Conference, Warsaw (2026). Wagner, A., Mandrela, O., Rudek, T.J., Selwa, E. <em>"Enacting More-than-Human Futures of the Ocean: Persona Tool in Co-Design of Marine Technologies."</em></li>
+<li>ESA Conference, Warsaw (2026). Srebrna, E., Rudek, T.J. <em>"Unfolding Sociotechnical Imaginaries in a Local Community. Future in the Making — The Case of Energy Transition in Choczewo."</em></li>
 <li>ESA Conference, Warsaw (2026). Panel organised and chaired: <em>"Enacted and Contested Futures of the Ocean: Sea Societies, Marine Technologies, and Maritime Spaces"</em> (JS_RN12_RN24).</li>
-<li>EASST 2026 Conference, Kraków (2026). Combined-format open panel organised and chaired: <em>"Democracy on the Edge: Science, Technology and Political Promise in Central and Eastern Europe"</em> (CB212).</li>
+<li>ESA Conference, Warsaw (2026). Session chaired: <em>"Imagining the Future"</em> (RN12_T01_01).</li>
+<li>EASST 2026 Conference, Kraków (2026). Combined-format open panel convened and chaired, with M. Wulz, A. Wagner, S. Pfotenhauer, A. Lytvynova, O. Mandrela, A. Wentland, M. Boenig-Liptsin: <em>"Democracy on the Edge: Science, Technology and Political Promise in Central and Eastern Europe"</em> (CF19).</li>
+<li>EASST 2026 Conference, Kraków (2026). Huang, H.T. (Feng Chia University), Rudek, R., Rudek, T.J. <em>"Rethinking Participation: When Global Energy Governance Encounters Indigenous Ecological Knowledge in Taiwan."</em></li>
+<li>EASST 2026 Conference, Kraków (2026). Mandrela, O., Wagner, A., Rudek, T.J. <em>"Beyond Engineering: Using VR and Personas of the Seas to Co-Create Maritime Futures in Project FAMOS."</em></li>
 <li>25th Science Democracy Network Conference, Potsdam (2026). Rudek, T.J. <em>"Sea Society(ies): Constructing the Future of the Baltic Sea — Global, EU, National or Local? Assemblages of Futures Across Scales."</em></li>
 </ul>
 
