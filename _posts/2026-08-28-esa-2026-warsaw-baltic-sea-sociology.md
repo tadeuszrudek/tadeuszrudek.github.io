@@ -32,7 +32,7 @@ More about the conference: [europeansociology.org/conference/2026](https://www.e
 
 #ESA2026 #Sociology #EuropeanSociologicalAssociation #MaritimeSociology #SociologyOfTheFuture #BalticSea #EnergyTransition #SociotechnicalImaginaries #OceanFutures #MarineSociology #JagiellonianUniversity #Choczewo #AcademicResearch #ResearchCollaboration
 
-<div id="esaGalleryCarousel" class="carousel slide" data-bs-ride="carousel">
+<div id="esaGalleryCarousel" class="carousel slide" data-bs-ride="carousel" markdown="0">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#esaGalleryCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#esaGalleryCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>

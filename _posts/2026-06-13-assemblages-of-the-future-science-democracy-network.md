@@ -12,7 +12,7 @@ I am very grateful to the **Science Democracy Network** for listening to my idea
 
 Many thanks to everyone — and especially to **Sheila Jasanoff** — for creating and sustaining this space for thinking together. Many thanks also to **Oliwia Mandrela** for building together an STS–Sociology centre in Kraków.
 
-<div id="sdnGalleryCarousel" class="carousel slide" data-bs-ride="carousel">
+<div id="sdnGalleryCarousel" class="carousel slide" data-bs-ride="carousel" markdown="0">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
