@@ -10,7 +10,7 @@ RC24 fosters international collaboration in environmental sociology, supporting 
 
 I look forward to contributing to this global community and to the Committee's work on the sociology of the environment in the years ahead.
 
-More about the Committee: [RC24 Environment and Society | ISA](https://www.isa-sociology.org/research-networks/research-committees/rc24-environment-and-society)
+More about the Committee: [RC24 Environment and Society](https://www.isa-sociology.org/research-networks/research-committees/rc24-environment-and-society)
 
 #Sociology #EnvironmentalSociology #ISA #InternationalSociologicalAssociation #RC24 #EnvironmentAndSociety #JagiellonianUniversity
 
