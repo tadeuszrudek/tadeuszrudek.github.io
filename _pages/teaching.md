@@ -14,5 +14,6 @@ permalink: /teaching/
 <li>Demography</li>
 <li>Sociotechnical Imaginaries Research</li>
 <li>Sociology in Action</li>
+<li>Bridging STEM and SSH: How Social Scientists Collaborate with STEM</li>
 </ul>
 </div>
