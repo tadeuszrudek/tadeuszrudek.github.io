@@ -63,6 +63,13 @@ permalink: /about/
 </ul>
 </div>
 
+<div class="section-card">
+<h3>University Service</h3>
+<ul>
+<li>Representative of Assistant Professors, Faculty Council (Rada Wydziału), Faculty of Philosophy, Jagiellonian University — elected 2026</li>
+</ul>
+</div>
+
 {% if site.data.people %}
 <div class="section-card">
 <h3>Students and Mentoring</h3>
