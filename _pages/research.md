@@ -8,11 +8,18 @@ permalink: /research/
 
 <div class="research-grid" markdown="0">
 
-<a href="https://pantheon-decarbonisation.com" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
-<h4 class="research-title">PANTHEON (Horizon Europe & MOST in PRC)</h4>
-<p class="research-desc">Horizon Europe project modelling and exploring decarbonisation pathways in a comparative perspective between Europe and China. Our team is responsible for filling the IAM with stakeholders insights and ideas</p>
+<h4 class="research-title">Future of the Sea – Sea Societies</h4>
+<p class="research-desc">Making of the Future of the Sea – Sea Societies examines how different actors imagine, negotiate and materially shape marine futures across scales. It explores how competing visions of the sea become embedded in institutions, infrastructures, scientific knowledge and everyday practices, and how these processes transform relations between societies, technologies and marine environments.</p>
+</div>
+</div>
+
+<a href="https://www.famos-project.eu" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
+<div class="research-card">
+<div class="research-body">
+<h4 class="research-title">FAMOS (Sustainable Blue Economy)</h4>
+<p class="research-desc">European research project on co-design of floating island archipelago and blue economy, examining stakeholder engagement and participatory methods in maritime contexts.</p>
 </div>
 </div>
 </a>
@@ -26,11 +33,11 @@ permalink: /research/
 </div>
 </a>
 
-<a href="https://www.famos-project.eu" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
+<a href="https://pantheon-decarbonisation.com" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
 <div class="research-card">
 <div class="research-body">
-<h4 class="research-title">FAMOS (Sustainable Blue Economy)</h4>
-<p class="research-desc">European research project on co-design of floating island archipelago and blue economy, examining stakeholder engagement and participatory methods in maritime contexts.</p>
+<h4 class="research-title">PANTHEON (Horizon Europe & MOST in PRC)</h4>
+<p class="research-desc">Horizon Europe project modelling and exploring decarbonisation pathways in a comparative perspective between Europe and China. Our team is responsible for filling the IAM with stakeholders insights and ideas</p>
 </div>
 </div>
 </a>
