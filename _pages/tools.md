@@ -1,7 +1,6 @@
 ---
 title: "Tools"
 layout: gridlay
-sitemap: false
 permalink: /tools/
 ---
 

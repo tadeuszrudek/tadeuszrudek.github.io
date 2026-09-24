@@ -2,7 +2,6 @@
 layout: post
 title: "Of Datalegality and Invisibilised Worlds"
 date: 2026-05-05
-categories: "Seminar"
 ---
 
 We warmly invite you to the next meeting of the **Capturing Invisible Seminars** series, taking place on **Thursday, 7 May 2026, 18:00–19:30 CEST**.

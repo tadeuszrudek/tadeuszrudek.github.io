@@ -2,15 +2,15 @@
 # Each entry needs: image (filename in images/), url
 # Recommended logo size: max-height 80px
 
-- image: team/aea86fce95146ce706844aeec4f57daa.jpg
+- image: team/eu-flag-logo.jpg
   url: "#"
-- image: team/KNOWLEDGE_logo (512 x 512 px).png
+- image: team/knowledge-observatory-logo.png
   url: "#"
 - image: team/logo-poziom-en.png
   url: "#"
 - image: team/NCBR_logo_ENG.png
   url: "#"
-- image: team/profilowe fb.png
+- image: team/capturing-invisible-lab-logo.png
   url: "https://imagine-future.project.uj.edu.pl/en_GB/"
 - image: "PC.png"
   url: "https://plug-chill.polon.ai"
