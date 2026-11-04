@@ -2,6 +2,9 @@
 layout: post
 title: "A Sea of Words: Blue Humanities and Blue Social Sciences in Cádiz"
 date: 2026-09-15
+description: "Presenting 'Are we ready to live on the sea?' (FAMOS project) at the 11th Across Borders conference on Blue Humanities, Universidad de Cádiz, SEA-EU alliance."
+image: /images/across-borders-cadiz-neptune-statue.jpeg
+image_alt: "A sculpture of Neptune with his trident, on display in a courtyard of the conference venue in Cádiz"
 ---
 
 🌊 Very grateful for the invitation to participate in the **11th Across Borders Conference, "A Sea of Words: Exploring Blue Humanities,"** hosted by the **Universidad de Cádiz**, part of the European University of the Seas (**SEA-EU**) alliance!

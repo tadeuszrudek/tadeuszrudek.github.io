@@ -2,6 +2,7 @@
 layout: post
 title: "Of Datalegality and Invisibilised Worlds"
 date: 2026-05-05
+description: "Capturing Invisible Seminar, 7 May 2026: Dr Kebene Wodajo (Oxford / St. Gallen) on datalegality, law, technology and data-mediated structural injustice."
 ---
 
 We warmly invite you to the next meeting of the **Capturing Invisible Seminars** series, taking place on **Thursday, 7 May 2026, 18:00–19:30 CEST**.

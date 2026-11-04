@@ -1,9 +1,11 @@
 ---
 title: "Research"
 layout: gridlay
+description: "Research projects of Tadeusz Rudek: Sea Societies, FAMOS floating islands, PANTHEON decarbonisation pathways, energy transition in China and Taiwan, VAX-TRUST and NEEDS Repowered."
 permalink: /research/
 ---
-## Research
+# Research
+{: .page-title}
 
 <div class="research-grid" markdown="0">
 

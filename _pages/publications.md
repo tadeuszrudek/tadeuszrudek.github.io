@@ -1,10 +1,12 @@
 ---
 title: "Publications"
 layout: gridlay
+description: "Publications by Tadeusz J. Rudek: journal articles and book chapters on sociotechnical imaginaries, energy transition, STS, vaccine hesitancy and civic epistemologies."
 permalink: /publications/
 ---
 
-## Publications
+# Publications
+{: .page-title}
 
 {% bibliography --query @unpublished %}
 

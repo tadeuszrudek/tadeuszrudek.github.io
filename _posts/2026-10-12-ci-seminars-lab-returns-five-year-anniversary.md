@@ -2,6 +2,7 @@
 layout: post
 title: "CI Seminars LAB Returns! Celebrating Five Years of Capturing Invisible LAB"
 date: 2026-10-12
+description: "CI Seminars LAB opens its 5th anniversary year at Jagiellonian University with Dr Makoto Takahashi (Cambridge) on Fukushima, followed by Magdalena Kuchler (Uppsala)."
 ---
 
 We are delighted to announce the opening of a new academic year of **CI Seminars LAB**, marking a special milestone: the **5th anniversary of Capturing Invisible LAB**!

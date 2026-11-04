@@ -2,6 +2,9 @@
 layout: post
 title: "Visiting FutureSpace at the University of Vienna"
 date: 2026-06-24
+description: "Research visit to the ERC FutureSpace project at the University of Vienna STS Department: sociotechnical imaginaries, outer space futures and the Baltic Sea."
+image: /images/1782217078053.jpeg
+image_alt: "FutureSpace team at the University of Vienna"
 ---
 
 ![FutureSpace team at the University of Vienna]({{ site.baseurl }}/images/1782217078053.jpeg)

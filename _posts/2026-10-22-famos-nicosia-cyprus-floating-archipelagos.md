@@ -2,6 +2,9 @@
 layout: post
 title: "Imagining the Future of Floating Archipelagos in the Mediterranean Sea"
 date: 2026-10-22
+description: "FAMOS project co-design workshop in Nicosia, Cyprus: Greek and Turkish Cypriot stakeholders, VR and a more-than-human perspective on floating archipelagos."
+image: /images/famos-nicosia-workshop-vr-headsets.jpeg
+image_alt: "Participants wearing VR headsets around a table with a hexagonal floating-archipelago board during the Nicosia co-design workshop"
 ---
 
 🌊 Last week, the **FAMOS-Project** team organised another co-design workshop on floating islands, this time in **Nicosia, Cyprus** 🇨🇾.

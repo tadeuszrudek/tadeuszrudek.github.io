@@ -2,6 +2,7 @@
 layout: post
 title: "Capturing Invisible Seminar: Nina Klimburg-Witjes (University of Vienna)"
 date: 2026-03-26
+description: "Capturing Invisible Seminar, 26 March 2026: Nina Klimburg-Witjes (University of Vienna) on Earth–Space relations, European integration and outer space futures (ERC FutureSpace)."
 ---
 
 We warmly invite you to the next meeting of the **Capturing Invisible Seminars** series, taking place on **Thursday, 26 March 2026, 18:00–19:30 CET**.

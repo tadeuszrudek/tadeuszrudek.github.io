@@ -2,6 +2,9 @@
 layout: post
 title: "Assemblages of the Future and Sea Societies: Presenting at the Science Democracy Network"
 date: 2026-06-13
+description: "Tadeusz Rudek presents his long-term research project on Assemblages of the Future and Sea Societies at the Science Democracy Network led by Sheila Jasanoff."
+image: /images/zdj-1.jpg
+image_alt: "Presenting Sea Societies at the Science Democracy Network"
 ---
 
 After my PhD, I found myself looking for a new research path. This is a tough and often stressful moment: trying to find a direction that stays close to your own interests, while also bringing possible benefits to wider society.

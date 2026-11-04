@@ -2,6 +2,9 @@
 layout: post
 title: "How Do We Learn Together? PANTHEON's WP5 Reflexivity Workshop in Amsterdam"
 date: 2026-09-24
+description: "PANTHEON's WP5 reflexivity workshop at the General Assembly in Amsterdam: how interdisciplinary EU–China teams learn together on carbon neutrality pathways."
+image: /images/pantheon-amsterdam-group-work-1.jpeg
+image_alt: "Three participants huddled over a large sheet of paper, sketching out ideas during a group exercise"
 ---
 
 Imagine reaching the end of a research project with every report delivered, yet knowing that its greatest possibilities remain unrealised. The individual contributions are there, but the connections between them are weak. Researchers have coordinated their tasks without fully learning from one another. What will remain when the project ends?

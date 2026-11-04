@@ -2,6 +2,7 @@
 title: "Life in the SpaceX Simulation: Exploring the Contemporary Company Town at Starbase"
 layout: post
 date: 2026-04-22
+description: "Capturing Invisible Seminar, 23 April 2026: Anna Szołucha (Jagiellonian University) on SpaceX's Starbase, Texas, as a contemporary company town."
 ---
 
 **Speaker:** Anna Szołucha (Jagiellonian University)  

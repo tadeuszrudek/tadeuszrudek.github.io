@@ -1,10 +1,12 @@
 ---
 title: "Tools"
 layout: gridlay
+description: "Research tools developed with the Capturing Invisible LAB: the Global Knowledge Observatory for stakeholder mapping and the Plug & Chill solar energy sharing platform."
 permalink: /tools/
 ---
 
-## Tools
+# Tools
+{: .page-title}
 
 <div class="section-card">
 <h4>Global Knowledge Observatory (GKO)</h4>

@@ -2,6 +2,9 @@
 layout: post
 title: "What Happens When the Future Arrives All at Once: Emilia Srebrna's MA Defence"
 date: 2026-07-11
+description: "Emilia Srebrna's MA thesis on sociotechnical imaginaries of energy transition in Choczewo, Poland: nuclear power, offshore wind and data centres on the Baltic coast."
+image: /images/emilia-srebrna-defence.jpeg
+image_alt: "Emilia Srebrna with the thesis committee after her MA defence"
 ---
 
 ![Emilia Srebrna with the thesis committee after her MA defence]({{ site.baseurl }}/images/emilia-srebrna-defence.jpeg)

@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title | escape }} - {{ site.name | escape }}{% else %}{{ site.name | escape }}{% endif %}</title>
+  <title>{% if page.url == "/" %}{{ site.name | escape }} – {{ site.title | escape }}, {{ site.institution | escape }}{% elsif page.title %}{{ page.title | escape }} - {{ site.name | escape }}{% else %}{{ site.name | escape }}{% endif %}</title>
   {% assign page_description = page.description | default: site.description | strip_html | strip_newlines %}
   {% if page.image %}{% assign page_image = page.image | prepend: site.baseurl | prepend: site.url %}{% elsif site.photo %}{% assign page_image = site.photo | prepend: "/images/" | prepend: site.baseurl | prepend: site.url %}{% endif %}
   <meta name="description" content="{{ page_description | escape }}">
@@ -64,27 +64,43 @@
   {% include mathjax.html %}
 
   <!-- JSON-LD Structured Data -->
+  {%- capture person_jsonld -%}
+  {
+      "@type": "Person",
+      "@id": "{{ site.url }}{{ site.baseurl }}/#person",
+      "name": "Tadeusz Józef Rudek",
+      "alternateName": ["Tadeusz J. Rudek", "Tadeusz Rudek"],
+      "honorificSuffix": "PhD",
+      "jobTitle": "{{ site.title | escape }}",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "image": "{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}",
+      "email": "mailto:{{ site.email }}",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Institute of Sociology, {{ site.institution | escape }}",
+        "parentOrganization": { "@type": "CollegeOrUniversity", "name": "{{ site.institution | escape }}", "url": "https://en.uj.edu.pl" }
+      },
+      "knowsAbout": ["Science and Technology Studies", "Sociotechnical imaginaries", "Energy transition", "Decarbonisation", "Environmental sociology", "Sea Societies", "Maritime sociology", "Vaccine hesitancy", "Civic epistemologies"],
+      "sameAs": [{% assign first = true %}{% for link in site.links %}{% if link[1] != "" and link[0] != "cv" %}{% unless first %}, {% endunless %}"{{ link[1] }}"{% assign first = false %}{% endif %}{% endfor %}]
+    }
+  {%- endcapture -%}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "{% if page.url == '/' %}WebSite{% elsif page.layout == 'post' %}BlogPosting{% else %}WebPage{% endif %}",
+    "@type": "{% if page.url == '/' %}ProfilePage{% elsif page.layout == 'post' %}BlogPosting{% else %}WebPage{% endif %}",
     "name": "{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}",
     "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
+    "inLanguage": "en",
     "description": {{ page_description | jsonify }},{% if page.layout == 'post' %}
     "headline": {{ page.title | jsonify }},
-    "datePublished": "{{ page.date | date_to_xmlschema }}",{% if page_image %}
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "mainEntityOfPage": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",{% if page_image %}
     "image": "{{ page_image }}",{% endif %}{% if page.keywords %}
-    "keywords": {{ page.keywords | jsonify }},{% endif %}{% endif %}
-    "author": {
-      "@type": "Person",
-      "name": "{{ site.name | escape }}",
-      "jobTitle": "{{ site.title | escape }}",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "{{ site.institution | escape }}"
-      }{% if site.links.google_scholar and site.links.google_scholar != "" %},
-      "sameAs": ["{{ site.links.google_scholar }}"{% if site.links.github and site.links.github != "" %}, "{{ site.links.github }}"{% endif %}{% if site.links.orcid and site.links.orcid != "" %}, "{{ site.links.orcid }}"{% endif %}]{% endif %}
-    }
+    "keywords": {{ page.keywords | jsonify }},{% endif %}
+    "author": {{ person_jsonld }},
+    "publisher": { "@id": "{{ site.url }}{{ site.baseurl }}/#person" }{% elsif page.url == '/' %}
+    "mainEntity": {{ person_jsonld }}{% else %}
+    "author": {{ person_jsonld }}{% endif %}
   }
   </script>{% if page.event %}
   <script type="application/ld+json">

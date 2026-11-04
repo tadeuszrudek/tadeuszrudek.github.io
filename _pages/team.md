@@ -1,8 +1,11 @@
 ---
 title: "Team"
 layout: gridlay
+description: "Capturing Invisible LAB team at the Institute of Sociology, Jagiellonian University: principal investigator Tadeusz J. Rudek, lab members and supervised students."
 permalink: /team/
 ---
+<h1 class="visually-hidden">Team – Capturing Invisible LAB</h1>
+
 ## PI
 
 <div class="section-card">

@@ -2,6 +2,7 @@
 layout: post
 title: "PANTHEON Scoping Workshops: China and the EU"
 date: 2026-04-01
+description: "PANTHEON Horizon Europe project: scoping workshops in China and the EU on post-transition visions, stakeholder roles and translating narratives into energy transition models."
 ---
 
 This week we completed two important milestones in the PANTHEON project: Scoping Workshops organised in China and the European Union. These meetings proved to be more than just spaces for gathering perspectives — they became a unique arena where Chinese and European visions of a post-transition world could confront, complement, and challenge one another.

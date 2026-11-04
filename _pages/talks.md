@@ -1,10 +1,12 @@
 ---
 title: "Talks"
 layout: gridlay
+description: "Talks, invited lectures and conference presentations by Tadeusz J. Rudek, including ESA 2026 Warsaw and EASST 2026 Kraków, on energy futures, the Baltic Sea and STS."
 permalink: /talks/
 ---
 
-## Talks
+# Talks
+{: .page-title}
 
 <div class="section-card">
 <h3>Public Talks</h3>

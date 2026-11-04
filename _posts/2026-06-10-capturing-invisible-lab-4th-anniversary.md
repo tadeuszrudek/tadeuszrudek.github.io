@@ -2,6 +2,7 @@
 layout: post
 title: "Four Years of Capturing Invisible Lab Seminar Series"
 date: 2026-06-10
+description: "Four years of the Capturing Invisible Lab seminar series at Jagiellonian University: a review of the 2025/2026 STS seminars on futures, infrastructures, risk and imaginaries."
 ---
 
 In 2022, Tadeusz Rudek and Katarzyna Rabiej-Sienicka launched the Capturing Invisible Lab Seminar Series as a space for intellectual exchange, critical reflection, and conversations with scholars working at the intersection of sociology and Science, Technology and Society studies. Four years later, we are delighted to celebrate the 4th anniversary of our meetings.

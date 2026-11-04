@@ -2,6 +2,9 @@
 layout: post
 title: "The 17th ESA Conference in Warsaw: Baltic Sea Futures, New Collaborations, and Old Friends"
 date: 2026-08-28
+description: "17th European Sociological Association conference in Warsaw: Baltic Sea energy futures, Choczewo research, ocean futures sessions and maritime sociology collaborations."
+image: /images/esa2026-baltic-title-slide.jpg
+image_alt: "Title slide: Reading Sociotechnical Futures — the sociotechnical future of the Baltic Sea in Poland"
 ---
 
 The 17th European Sociological Association Conference in **#Warsaw** has come to an end!

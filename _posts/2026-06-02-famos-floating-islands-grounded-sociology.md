@@ -2,6 +2,7 @@
 layout: post
 title: "Even Floating Islands Need Grounded Sociology"
 date: 2026-06-02
+description: "Why floating archipelagos need sociology: Tadeusz Rudek on co-design, human–sea relations and the FAMOS EU project workshops in Gdynia and Grimstad."
 ---
 
 For me, commitment to sociological inquiry and STS is not only about the constant critique of inherited realities. Today, perhaps more than ever, it means actively participating in debates about the natural and social worlds around us: researching them, understanding them, and opening up new possible pathways.

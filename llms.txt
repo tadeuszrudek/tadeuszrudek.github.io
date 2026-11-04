@@ -1,0 +1,28 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# {{ site.name }}
+
+> {{ site.title }} at the Institute of Sociology, {{ site.institution }} (Kraków, Poland). Sociologist working in Science and Technology Studies (STS): sociotechnical imaginaries, energy transitions and decarbonisation, maritime futures (Sea Societies, Baltic Sea), and public health controversies. Leads the Capturing Invisible LAB and co-organises the CI LAB Seminars series.
+
+Full name: Tadeusz Józef Rudek. Contact: {{ site.email }}. Research fellowships at Harvard University, King's College London and ETH Zurich. Projects include FAMOS (floating archipelagos, blue economy), PANTHEON (Horizon Europe, EU–China decarbonisation pathways), VAX-TRUST and NEEDS Repowered.
+
+## Pages
+
+- [About]({{ site.url }}/about/): biography, education, grants and awards
+- [Research]({{ site.url }}/research/): current and past research projects
+- [Publications]({{ site.url }}/publications/): journal articles and book chapters
+- [Talks]({{ site.url }}/talks/): invited lectures and conference presentations
+- [Teaching]({{ site.url }}/teaching/): courses at Jagiellonian University
+- [Team]({{ site.url }}/team/): Capturing Invisible LAB members and students
+- [Tools]({{ site.url }}/tools/): research tools and platforms
+- [News]({{ site.url }}/news/): blog posts and announcements
+
+## Blog posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ site.url }}{{ post.url }}) ({{ post.date | date: "%Y-%m-%d" }}){% if post.description %}: {{ post.description }}{% endif %}{% endfor %}
+
+## Profiles
+{% for link in site.links %}{% if link[1] != "" and link[0] != "cv" %}
+- {{ link[0] | replace: "_", " " | capitalize }}: {{ link[1] }}{% endif %}{% endfor %}

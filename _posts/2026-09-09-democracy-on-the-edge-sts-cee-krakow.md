@@ -2,6 +2,9 @@
 layout: post
 title: "Democracy on the Edge: STS in Central and Eastern Europe Comes to Kraków"
 date: 2026-09-09
+description: "Capturing Invisible LAB co-organised an STS in Central and Eastern Europe workshop and the EASST 2026 panel 'Democracy on the Edge' in Kraków with ETH Zürich and TUM."
+image: /images/sts-cee-workshop-group-photo.jpeg
+image_alt: "Workshop participants gathered on a staircase at ul. Grodzka 52 in Kraków"
 ---
 
 This week, the **Capturing Invisible LAB** at the Jagiellonian University's Institute of Sociology co-organised two connected events around the EASST 2026 conference in Kraków, together with colleagues from **ETH Zürich** and the **Technical University of Munich (TUM)**. On Monday we hosted a pre-conference workshop, and on Tuesday we ran a full panel session at EASST itself. Together, they were an attempt to ask what it means to do Science and Technology Studies (STS) *from* Central and Eastern Europe, rather than *about* it.

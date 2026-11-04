@@ -2,6 +2,9 @@
 layout: post
 title: "Inside Kraków's Cogeneration Power Plant with Technology and Transformation Students"
 date: 2026-10-30
+description: "Sociology students of Technology and Transformation (Jagiellonian University) visit Kraków's combined heat and power plant: control room, boilers, gas units and decarbonisation."
+image: /images/krakow-chp-visit-group.jpeg
+image_alt: "Group of students and lecturers in white hard hats and orange high-visibility vests at the Kraków cogeneration power plant"
 ---
 
 ⚡ Today, together with the students of **Technology and Transformation** at the **Institute of Sociology, Jagiellonian University**, we had a great opportunity to visit the **cogeneration power plant in Kraków** 🏭, which supplies heat and electricity to our city.

@@ -1,9 +1,11 @@
 ---
 title: "Teaching"
 layout: gridlay
+description: "Courses taught by Tadeusz Rudek at Jagiellonian University: environmental sociology, Science and Technology Studies, sociotechnical imaginaries and technology and society."
 permalink: /teaching/
 ---
-## Teaching
+# Teaching
+{: .page-title}
 
 <div class="section-card">
 <ul>

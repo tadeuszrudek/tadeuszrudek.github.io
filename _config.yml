@@ -13,7 +13,7 @@ photo: headshot.jpg  # place your photo in images/
 links:
   google_scholar: "https://scholar.google.com/citations?user=793_e2oAAAAJ&hl=pl"
   github: ""
-  researchgate: "https://www.researchgate.net/profile/Tadeusz-Rudek?ev=hdr_xprf"
+  researchgate: "https://www.researchgate.net/profile/Tadeusz-Rudek"
   orcid: "https://orcid.org/0000-0002-8498-614X"
   linkedin: "https://www.linkedin.com/in/tadeuszrudek/"
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
@@ -33,7 +33,7 @@ scholar_stats:
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Assistant Professor, Jagiellonian University. Science and Technology Studies, energy sociology, sociotechnical imaginaries."
-keywords: "sociology, environmental sociology, Jagiellonian University, Tadeusz Rudek, academic research, Poland, sociology research"
+keywords: "Tadeusz Rudek, Tadeusz Józef Rudek, sociology, Science and Technology Studies, STS, sociotechnical imaginaries, energy transition, decarbonisation, environmental sociology, Sea Societies, Baltic Sea, Capturing Invisible LAB, Jagiellonian University, Kraków, Poland"
 baseurl: ""
 url: "https://tadeuszrudek.github.io"
 
@@ -83,6 +83,12 @@ kramdown:
   parse_block_html: true
 
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
+
+defaults:
+  - scope:
+      path: "google845f7b29157fd16f.html"
+    values:
+      sitemap: false
 
 scholar:
   last_name: Rudek

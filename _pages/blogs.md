@@ -1,10 +1,12 @@
 ---
 title: "News"
 layout: gridlay
+description: "News and blog posts from Tadeusz Rudek and the Capturing Invisible LAB: CI LAB seminars, FAMOS and PANTHEON projects, conferences and energy transition research."
 permalink: /news/
 ---
 
-## News
+# News
+{: .page-title}
 
 {% if site.posts.size > 0 %}
 <div class="section-card" markdown="0">

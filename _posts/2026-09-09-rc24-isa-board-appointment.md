@@ -2,6 +2,9 @@
 layout: post
 title: "Dr Tadeusz Rudek Appointed to the Board of ISA Research Committee RC24 \"Environment and Society\""
 date: 2026-09-09
+description: "Dr Tadeusz Rudek (Jagiellonian University) appointed to the Board of the International Sociological Association Research Committee RC24 Environment and Society."
+image: /images/rc24-isa-board-appointment.jpg
+image_alt: "Tadeusz Rudek at the ISA Forum of Sociology, next to the RC24 Environment and Society logo"
 ---
 
 I am delighted to share that I have been appointed to the Board of Research Committee **RC24 "Environment and Society"** of the **International Sociological Association (ISA)**, for the remainder of the current term.

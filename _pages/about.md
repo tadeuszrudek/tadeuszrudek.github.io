@@ -1,10 +1,12 @@
 ---
 title: "About"
 layout: gridlay
+description: "Tadeusz J. Rudek, PhD: sociologist and STS scholar at the Institute of Sociology, Jagiellonian University. Education, grants, awards and research fellowships (Harvard, King's College London, ETH Zurich)."
 permalink: /about/
 ---
 
-## About
+# About
+{: .page-title}
 
 <div class="section-card">
 <div class="pi-card">

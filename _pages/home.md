@@ -1,18 +1,19 @@
 ---
 title: "Home"
 layout: homelay
+description: "Tadeusz J. Rudek, PhD – Assistant Professor of Sociology at Jagiellonian University, Kraków. Science and Technology Studies, sociotechnical imaginaries, energy transition, Sea Societies."
 permalink: /
 ---
 
-<h2 class="home-hero">{{ site.name }}</h2>
+<h1 class="home-hero">{{ site.name }}</h1>
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Future</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Sociotechnical Transitions</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Energy Transition</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Post-Decarbonised World</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Technology & Society</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Future</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Sociotechnical Transitions</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Energy Transition</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Post-Decarbonised World</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research/" class="chip">Technology & Society</a>
 </div>
 <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Let's Capture the Invisible. Let's capture the Future.</div>
