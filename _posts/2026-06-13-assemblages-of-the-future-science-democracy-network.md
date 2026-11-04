@@ -3,7 +3,7 @@ layout: post
 title: "Assemblages of the Future and Sea Societies: Presenting at the Science Democracy Network"
 date: 2026-06-13
 description: "Tadeusz Rudek presents his long-term research project on Assemblages of the Future and Sea Societies at the Science Democracy Network led by Sheila Jasanoff."
-image: /images/zdj-1.jpg
+image: /images/science-democracy-network-sea-societies-presentation.jpg
 image_alt: "Presenting Sea Societies at the Science Democracy Network"
 ---
 
@@ -25,19 +25,19 @@ Many thanks to everyone — and especially to **Sheila Jasanoff** — for creati
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ site.baseurl }}/images/zdj-1.jpg" class="d-block w-100" alt="Presenting Sea Societies at the Science Democracy Network">
+      <img src="{{ site.baseurl }}/images/science-democracy-network-sea-societies-presentation.jpg" class="d-block w-100" alt="Presenting Sea Societies at the Science Democracy Network">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/zdj-2.jpg" class="d-block w-100" alt="Slide with Olga Tokarczuk quote">
+      <img src="{{ site.baseurl }}/images/science-democracy-network-tokarczuk-quote-slide.jpg" class="d-block w-100" alt="Slide with Olga Tokarczuk quote">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/zdj-3.jpg" class="d-block w-100" alt="On global solutions and the rights of localities">
+      <img src="{{ site.baseurl }}/images/science-democracy-network-global-local-slide.jpg" class="d-block w-100" alt="On global solutions and the rights of localities">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/zdj-4.jpg" class="d-block w-100" alt="Sea Baltic Sea — as a global, EU, national and local">
+      <img src="{{ site.baseurl }}/images/science-democracy-network-baltic-sea-scales-slide.jpg" class="d-block w-100" alt="Slide presenting the Baltic Sea as a global, EU, national and local space">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/zdj-5.jpg" class="d-block w-100" alt="Offshore wind and energy infrastructure assemblages">
+      <img src="{{ site.baseurl }}/images/science-democracy-network-offshore-wind-slide.jpg" class="d-block w-100" alt="Offshore wind and energy infrastructure assemblages">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#sdnGalleryCarousel" data-bs-slide="prev">

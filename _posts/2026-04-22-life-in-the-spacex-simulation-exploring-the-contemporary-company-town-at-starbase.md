@@ -14,6 +14,4 @@ What happens when a single corporate vision designs every aspect of a community'
 **About the speaker**  
 Anna Szołucha is Associate Professor and PI of the ARIES project (Anthropological Research into the Imaginaries and Exploration of Space) at the Institute of Ethnology and Cultural Anthropology, Jagiellonian University in Kraków. Her work spans the social impacts of energy extraction, unconventional resources, democratic transformation, and the anthropology of space exploration.
 
-**Join online**  
-Meeting ID: 345 499 791 627 31 | Passcode: SY2Cx2aP  
-[Add to calendar (.ics)](/assets/calendar/2026-04-23-spacex-simulation.ics)
+This seminar took place online on 23 April 2026 as part of the Capturing Invisible Seminars series. Upcoming meetings are listed on the [CI LAB Seminars programme](https://imagine-future.project.uj.edu.pl/en_GB/seminaria).
